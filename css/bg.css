@@ -1,0 +1,24 @@
+.bg {
+    background-image: url(../image/bg.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+.cardbg {
+    background-color: #278ACA; /* Set background color */
+}
+
+.wider-btn {
+    width: 100px; /* ปรับความกว้างตามที่ต้องการ */
+    /* หรือคุณสามารถใช้ค่าอื่น ๆ เช่น padding เพิ่มเติมได้ */
+    /* padding: 10px 20px; */
+}
+.wider-btn1 {
+    width: 150px; /* ปรับความกว้างตามที่ต้องการ */
+    /* หรือคุณสามารถใช้ค่าอื่น ๆ เช่น padding เพิ่มเติมได้ */
+    /* padding: 10px 20px; */
+}

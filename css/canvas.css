@@ -1,0 +1,6 @@
+#canvasDiv {
+    position: relative;
+    border: 2px dashed grey;
+    height: 250px;
+    width: 320px;
+}
